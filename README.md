@@ -16,8 +16,7 @@
 Создайте свой шаблон, в котором будут элементы данных, мониторящие закгрузку CPU и RAM хоста.
 
 *Приведите скриншот вкладки Items вашего шаблона.*
-![alt text](https://github.com/vasev85/zabbix/ex1.png?raw=true)
-
+![alt text](https://github.com/vasev85/zabbix2/blob/main/EX1.png?raw=true) 
 ---
 
 ### Задание 2. 
